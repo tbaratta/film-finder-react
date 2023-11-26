@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/film-finder-react/static/css/main.d3af0699.css",
-    "main.js": "/film-finder-react/static/js/main.1620c9be.js",
+    "main.js": "/film-finder-react/static/js/main.84ff9e6b.js",
     "index.html": "/film-finder-react/index.html",
     "static/media/search.svg": "/film-finder-react/static/media/search.dae6d285fe67b2c73c348f0022584e4b.svg",
     "main.d3af0699.css.map": "/film-finder-react/static/css/main.d3af0699.css.map",
-    "main.1620c9be.js.map": "/film-finder-react/static/js/main.1620c9be.js.map"
+    "main.84ff9e6b.js.map": "/film-finder-react/static/js/main.84ff9e6b.js.map"
   },
   "entrypoints": [
     "static/css/main.d3af0699.css",
-    "static/js/main.1620c9be.js"
+    "static/js/main.84ff9e6b.js"
   ]
 }
